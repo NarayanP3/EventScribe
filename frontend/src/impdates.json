@@ -1,0 +1,579 @@
+[
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-10",
+      "day": "Thursday",
+      "name": "Maha Saptami",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-09-15",
+      "day": "Sunday",
+      "name": "Onam",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-05",
+      "day": "Tuesday",
+      "name": "Maharishi Dayanand Saraswati Jayanti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-08-15",
+      "day": "Thursday",
+      "name": "Parsi New Year",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-02-10",
+      "day": "Saturday",
+      "name": "Chinese New Year",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-25",
+      "day": "Monday",
+      "name": "Dolyatra",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-08-04",
+      "day": "Sunday",
+      "name": "Friendship Day",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-01",
+      "day": "Friday",
+      "name": "Diwali/Deepavali",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-05-01",
+      "day": "Wednesday",
+      "name": "May Day",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-17",
+      "day": "Thursday",
+      "name": "Maharishi Valmiki Jayanti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-09",
+      "day": "Tuesday",
+      "name": "Gudi Padwa",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-05-08",
+      "day": "Wednesday",
+      "name": "Birthday of Ravindranath",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-29",
+      "day": "Friday",
+      "name": "Good Friday",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-24",
+      "day": "Sunday",
+      "name": "Guru Tegh Bahadur's Martyrdom Day",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-26",
+      "day": "Friday",
+      "name": "Republic Day",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-07-21",
+      "day": "Sunday",
+      "name": "Guru Purnima",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-02-14",
+      "day": "Wednesday",
+      "name": "Valentine's Day",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-12",
+      "day": "Saturday",
+      "name": "Dussehra",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-12-21",
+      "day": "Saturday",
+      "name": "December Solstice",
+      "type": "SEASON"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-09-16",
+      "day": "Monday",
+      "name": "Milad un-Nabi/Id-e-Milad (Tentative Date)",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-24",
+      "day": "Wednesday",
+      "name": "Hazarat Ali's Birthday",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-06-21",
+      "day": "Friday",
+      "name": "June Solstice",
+      "type": "SEASON"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-23",
+      "day": "Tuesday",
+      "name": "First day of Passover",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-10",
+      "day": "Wednesday",
+      "name": "Ramzan Id/Eid-ul-Fitar (Tentative Date)",
+      "type": "MUSLIM_COMMON_LOCAL_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-12-31",
+      "day": "Tuesday",
+      "name": "New Year's Eve",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-14",
+      "day": "Sunday",
+      "name": "Lohri",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-20",
+      "day": "Wednesday",
+      "name": "March Equinox",
+      "type": "SEASON"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-14",
+      "day": "Sunday",
+      "name": "Ambedkar Jayanti",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-07-07",
+      "day": "Sunday",
+      "name": "Rath Yatra",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-17",
+      "day": "Wednesday",
+      "name": "Guru Govind Singh Jayanti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-15",
+      "day": "Monday",
+      "name": "Makar Sankranti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-02",
+      "day": "Wednesday",
+      "name": "Mahatma Gandhi Jayanti",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-08-19",
+      "day": "Monday",
+      "name": "Raksha Bandhan (Rakhi)",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-21",
+      "day": "Sunday",
+      "name": "Mahavir Jayanti",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-08-26",
+      "day": "Monday",
+      "name": "Janmashtami (Smarta)",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-09",
+      "day": "Wednesday",
+      "name": "First Day of Durga Puja Festivities",
+      "type": "OBSERVANCE_HINDUISM"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-03",
+      "day": "Sunday",
+      "name": "Bhai Duj",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-17",
+      "day": "Wednesday",
+      "name": "Rama Navami",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-06-16",
+      "day": "Sunday",
+      "name": "Father's Day",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-03",
+      "day": "Thursday",
+      "name": "First Day of Sharad Navratri",
+      "type": "OBSERVANCE_HINDUISM"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-05-12",
+      "day": "Sunday",
+      "name": "Mother's Day",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "name": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-09-07",
+      "day": "Saturday",
+      "name": "Ganesh Chaturthi/Vinayaka Chaturthi",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-31",
+      "day": "Sunday",
+      "name": "Easter Day",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-31",
+      "day": "Thursday",
+      "name": "Naraka Chaturdasi",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-12-24",
+      "day": "Tuesday",
+      "name": "Christmas Eve",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-02-24",
+      "day": "Saturday",
+      "name": "Guru Ravidas Jayanti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-12-26",
+      "day": "Thursday",
+      "name": "First Day of Hanukkah",
+      "type": "OBSERVANCE"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-06-17",
+      "day": "Monday",
+      "name": "Bakr Id/Eid ul-Adha (Tentative Date)",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-07-17",
+      "day": "Wednesday",
+      "name": "Muharram/Ashura (Tentative Date)",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-13",
+      "day": "Saturday",
+      "name": "Vaisakhi",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-08",
+      "day": "Friday",
+      "name": "Maha Shivaratri/Shivaratri",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-02-19",
+      "day": "Monday",
+      "name": "Shivaji Jayanti",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-02",
+      "day": "Saturday",
+      "name": "Govardhan Puja",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-28",
+      "day": "Thursday",
+      "name": "Maundy Thursday",
+      "type": "OBSERVANCE_CHRISTIAN"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-11",
+      "day": "Friday",
+      "name": "Maha Ashtami",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-11-15",
+      "day": "Friday",
+      "name": "Guru Nanak Jayanti",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-10-20",
+      "day": "Sunday",
+      "name": "Karaka Chaturthi (Karva Chauth)",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-12-25",
+      "day": "Wednesday",
+      "name": "Christmas",
+      "type": "GAZETTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-01-01",
+      "day": "Monday",
+      "name": "New Year's Day",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-09-22",
+      "day": "Sunday",
+      "name": "September Equinox",
+      "type": "SEASON"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-04-05",
+      "day": "Friday",
+      "name": "Jamat Ul-Vida (Tentative Date)",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-03-24",
+      "day": "Sunday",
+      "name": "Holika Dahana",
+      "type": "RESTRICTED_HOLIDAY"
+    },
+    {
+      "country": "India",
+      "iso": "IN",
+      "year": 2024,
+      "date": "2024-05-23",
+      "day": "Thursday",
+      "name": "Buddha Purnima/Vesak",
+      "type": "GAZETTED_HOLIDAY"
+    }
+  ]
+  
